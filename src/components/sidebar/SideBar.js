@@ -16,7 +16,9 @@ export default function SideBar() {
           alt=""
         />
         <p>
-          loremlgghdsfhagsdfwtyfdwhsabxzbvxbzczcxhsscxgfsdfsgxcbcxbz xbzcbzcbc
+          If you are not successful then transform your way of thinking as{" "}
+          <br /> If you were a caterpillar transforming into a monarch
+          butterfly.
         </p>
       </div>
       <div className="sidebarItem">
