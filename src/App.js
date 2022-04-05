@@ -1,6 +1,7 @@
 import TopBar from "./components/topbar/TopBar";
 import Write from "./components/write/Write";
 import Login from "./pages/login/Login";
+import Register from "./pages/register/Register";
 import Setting from "./pages/setting/Setting";
 
 function App() {
@@ -9,7 +10,8 @@ function App() {
       <TopBar />
       {/* <Write /> */}
       {/* <Setting /> */}
-      <Login />
+      {/* <Login /> */}
+      <Register />
     </div>
   );
 }

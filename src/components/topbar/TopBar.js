@@ -27,7 +27,7 @@ export default function TopBar() {
       <div className="topRight">
         <img
           className="topImg"
-          src="http://2.bp.blogspot.com/_KLJU3hHDGVM/TCA-o19U5WI/AAAAAAAACXg/DVR56zx-Tgk/s1600/Blue-Eyes_1440x900.jpg"
+          src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           alt=""
         />
         <FaSearch className="topSearchIcon" />
